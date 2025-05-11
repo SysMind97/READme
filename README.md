@@ -1,6 +1,5 @@
 # 💫 About Me:
-Test
-
+I'm a passionate System Administrator from Germany, turning my profession into a lifelong hobby.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmet-yessa-b-40b1a3247/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:resell61@outlook.com) 
